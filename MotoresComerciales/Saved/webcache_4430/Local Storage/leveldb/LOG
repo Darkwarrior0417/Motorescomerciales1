@@ -1,2 +1,3 @@
-2025/05/13-08:08:55.670 65e0 Creating DB C:/Users/DarkW/OneDrive/Escritorio/Github/MotoresComerciales/Motorescomerciales1/MotoresComerciales/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/05/13-08:08:55.696 65e0 Reusing MANIFEST C:/Users/DarkW/OneDrive/Escritorio/Github/MotoresComerciales/Motorescomerciales1/MotoresComerciales/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/06/05-22:01:14.825 9c64 Reusing MANIFEST C:/Users/DarkW/OneDrive/Escritorio/Github/MotoresComerciales/Motorescomerciales1/MotoresComerciales/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/06/05-22:01:14.856 9c64 Recovering log #3
+2025/06/05-22:01:14.858 9c64 Reusing old log C:/Users/DarkW/OneDrive/Escritorio/Github/MotoresComerciales/Motorescomerciales1/MotoresComerciales/Saved/webcache_4430\Local Storage\leveldb/000003.log 
