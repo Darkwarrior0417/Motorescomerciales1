@@ -1,0 +1,1167 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "32853600CB20D63F8DFD5C2B773FF3F7748E4273",
+			"Assets": [
+				"/Game/MetaHumans/Common/Materials/M_Eyelashes_Cards"
+			]
+		},
+		{
+			"ShaderMapHash": "3A6370007E842FF35242450B98BFA1088F456A42",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5ECB960206ECE2F7792303F15190EB40046E74E4",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "4647E2030FB28D11DF7E349FCD6C35444FB02B34",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "5B37A00607EC390F91EDF3FA806DFE372A3F04E9",
+			"Assets": [
+				"/Game/MetaHumans/Common/Materials/M_Teeth"
+			]
+		},
+		{
+			"ShaderMapHash": "B85FF906AE48BC5792150E334AC4925B30FEFFB5",
+			"Assets": [
+				"/Game/MetaHumans/Common/Face/Materials/M_EyeOcclusion"
+			]
+		},
+		{
+			"ShaderMapHash": "5DD704074B0AAF8F44F8FBB575F9F3959289FE9A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "0C9541074AD3B897457CF5D53DFD8FCCFC4B3095",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Map/Interaction_Showroom",
+				"/Game/PN_interactiveSpruceForest/Map/Showroom"
+			]
+		},
+		{
+			"ShaderMapHash": "534843093884583826F0052358BD94AC9E90D182",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0CB74F0B48BFCD7531DF398FB002936548B10B3B",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "354D900CA6F527E0EB34D20C5B25E9453551342D",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D409670D45190C24B257B14A6824A405806EBED5",
+			"Assets": [
+				"/Game/StylizedKitchen/Materials/MI_Grass",
+				"/Game/StylizedKitchen/Materials/MI_Grass2"
+			]
+		},
+		{
+			"ShaderMapHash": "E3231C11BAE2FB3C10AE337E860C38EF42CBE688",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "181CEE124226B7BC3BC6982CF05C1192F10A212C",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "8C4A1313706E95B52182DD98EB171A6C3C58D949",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_01_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_02_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_03_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_04_MA"
+			]
+		},
+		{
+			"ShaderMapHash": "6740851335ECDB66DC210349CE24092208380607",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_05_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_06_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_07_branch"
+			]
+		},
+		{
+			"ShaderMapHash": "4F2FB21426775C3C9AE9C939CA76234477624543",
+			"Assets": [
+				"/ARUtilities/Materials/M_DepthColoration"
+			]
+		},
+		{
+			"ShaderMapHash": "7B98F815425A2D41ADACA3330E3CEE429FED4F2E",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "86F6F31858503ECAEF976A4A4E44E46885907342",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_05_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_06_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_07_trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "7ED077191F40D7CE8D68AE410E263D659F4A8312",
+			"Assets": [
+				"/Game/MetaHumans/Common/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD2"
+			]
+		},
+		{
+			"ShaderMapHash": "F8BB221B003037F14E1B311657EB54FB45E7AFC5",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1BD5AE1B5CF6691EF880BEDC98D0F08DAFCB1640",
+			"Assets": [
+				"/AppleARKit/M_SceneDepthOcclusion"
+			]
+		},
+		{
+			"ShaderMapHash": "8075F11B726105D773AFF628F2B9FC160877CD63",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C4F2091CB4642716303765420C141E0349BDF868",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "9CB48C1CBCB10E8495E3DEF86E10B4BD0B57AE77",
+			"Assets": [
+				"/Game/MetaHumans/Common/Face/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "48B5011DE0FE82BDF38D8509137FAA697A55FC89",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "828A101ED366B7866C258BC69FB93CDAD75821A2",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "3D6E2A1F4B298B60F835779AD6FE7E23E260E7B4",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_05_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_06_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_07_trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "350A92223A32AF16EEF197D9C427CEC9D31FB0A8",
+			"Assets": [
+				"/Game/MetaHumans/Common/Materials/Shirt/Male/M_m_top_shirt"
+			]
+		},
+		{
+			"ShaderMapHash": "05D89B23F3909C8D2D661510EDA8F4C43209F955",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
+			"ShaderMapHash": "74F16624A73A63BC3C3B3B55806BCBCB749129F0",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_01_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_02_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_03_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_01_low_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_02_low_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_03_low_branch"
+			]
+		},
+		{
+			"ShaderMapHash": "2731B824026C5418B714F3747B8D4BAC21B4A733",
+			"Assets": [
+				"/Game/MetaHumans/Common/Materials/M_fabric_simpler"
+			]
+		},
+		{
+			"ShaderMapHash": "C74B772C5124443D16A2A21106034B9CD9BABC49",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "8A77362F4A4E5D5700DFCAD0CA5B07167F652FAD",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "E0306C2F1D1438B9D1F3C3CA7F404FFFAB96A395",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Character/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "EBE58B3292ADA1A0324B7561451CB11F0516290F",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "B885A633A8DB4C6D8FF30FF82F51E9784FC54902",
+			"Assets": [
+				"/Game/Houses/House1/Block02",
+				"/Game/Houses/House1/Concrete02_basecolor",
+				"/Game/Houses/House1/roof",
+				"/Game/Houses/House1/Wood",
+				"/Game/Houses/House2/Material_003"
+			]
+		},
+		{
+			"ShaderMapHash": "BDE99634F6AF551A159B5C1A94C35D16DF83B988",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "04C14738961FD90511F5718352C791B6A9EC258C",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "E06942399FC8F4F9259ACF66347BD5E3612ACC76",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "3F1ADC3BC46D58574F69D2B92FD4B474E6741898",
+			"Assets": [
+				"/Game/MetaHumans/Common/Materials/Oxfords/M_shs_oxfords"
+			]
+		},
+		{
+			"ShaderMapHash": "41882E3EE98AD3C0590BB1FD459FBCE6699E516F",
+			"Assets": [
+				"/Game/MetaHumans/Common/Materials/Jeans/M_btm_jeans_nrm"
+			]
+		},
+		{
+			"ShaderMapHash": "5524543EA07FD2143A89A6D159942C8319FCE9CD",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D14AE63E8859339B4CC825C638D3AB4A20241C9B",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "E2627341F5E5B9D758A69CFA9F46C8002AEF98A0",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_01_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_02_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_03_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_04_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_01_low_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_02_low_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_03_low_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_04_low_trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "BA054D43847DAAE176C895D5609AF5B84DDE668A",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "5AC7704426BA87AEDDA46BFEFC29788C719BF879",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "0363A5449D3014D9C8CD48ED64B7BB47235156FE",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "3624C5462707B13D88BB2A2259F5831695DD79A9",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "29B1E747B9D1D75FD0779D31F8914EF6715001DF",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_01_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_02_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_03_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_04_MA"
+			]
+		},
+		{
+			"ShaderMapHash": "F3333649B54A9D9A520F549E6294A3D231326A69",
+			"Assets": [
+				"/Game/MetaHumans/Common/Materials/MI_Hair_Helmet"
+			]
+		},
+		{
+			"ShaderMapHash": "28BB67497D5F4AB41483E31A2AC6FD77E4C10A06",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundSummer"
+			]
+		},
+		{
+			"ShaderMapHash": "F601DC491CD38C833E922DFFFCCAFB79C4D34848",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "E38AA24E568FF41CB5790D701A30EEC08610DFB5",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "EA55E24EE1F83D2555959C9ED280FA3930C881DD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6A8D104F4CBAC9AA789E795DD6821E06BE7390F5",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_01_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_02_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_03_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_01_low_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "8D494B4F3A6E92CAC062405FA5FA0673ABD504AC",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "77B8784FB82C2490CF8CB53A54EBACDB14BD5ECA",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "980DD452F74EE0B5F36A8AC91EA41E80322CC864",
+			"Assets": [
+				"/Game/MetaHumans/Common/Face/Materials/M_Cartilage"
+			]
+		},
+		{
+			"ShaderMapHash": "42ADCA539DAF31758C4B424FFD5505A025043C49",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_Latex_Usable"
+			]
+		},
+		{
+			"ShaderMapHash": "14BB1C554AF179773002255B858BA13523BB5CD4",
+			"Assets": [
+				"/Game/Materials/Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "95BFE255AA5B64E9FA2BC7A300B940C9814B3EBF",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "83156D5651AEC2E2AB7D937A6C7E7C1A0CC6E776",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "9B59E757AE9C14081071352103CD43DB8FF53A23",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "086A295957F7269B159607ED14CE2C6840F1B9A9",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0AC86B5A58A434191BF36821B10764CA60D956FA",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/high/spruce_half_01_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/high/spruce_half_02_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/high/spruce_half_03_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/high/spruce_half_04_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_01_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_02_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_03_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_04_trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "54A7BF5C0BA579A43DBC40BDC0C90C6342CE1EA6",
+			"Assets": [
+				"/AppleARKit/M_OcclusionOverlay",
+				"/AppleARKit/MI_MatteOcclusionOverlay"
+			]
+		},
+		{
+			"ShaderMapHash": "FC92DA5CC2AB6C80615370E473B9FE300D15AB59",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/FoliageLandscape/KikuyuGrass/Billboard",
+				"/Game/FoliageLandscape/WildGrass/Billboard",
+				"/Game/Houses/House1/material",
+				"/Game/Houses/House1/material_0",
+				"/Game/Houses/House2/Material_002"
+			]
+		},
+		{
+			"ShaderMapHash": "2FB3FD5C47163FF024C90D4E9169E7612DC4B97F",
+			"Assets": [
+				"/Game/MetaHumans/Common/Face/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "5446BF5D2A9EF1C9B2E99D562A52C403F3376964",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "C4D6E65EB21280AF4A70F99B393BCC0796836E7C",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "3C02495F064FAE006A41557FD77B3A4616521C03",
+			"Assets": [
+				"/Game/MetaHumans/Common/Materials/M_Facial_Hair",
+				"/Game/MetaHumans/Common/Materials/MI_Facial_Hair"
+			]
+		},
+		{
+			"ShaderMapHash": "6860D15F2FF2E2E7BBE53AE035BBBF29FADB3111",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "F1874363D87CDB7D095A3FE92E40A4F333D6F99B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B462F064ED9389E881DB46BD2CBC982C141B43CC",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "C7580066732A37CBE248994B08AC4713FB127DA9",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Winter"
+			]
+		},
+		{
+			"ShaderMapHash": "8063546907B8AEDE49275E90800B0B893946F903",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "082D056B8D126F77EE8ABF4D026E32A8E0B37422",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "D431986E3D993F2008D9C30C131AB9A9D0D17523",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "8889016F5A647575DCBCF139F0EC08F955CA9B4F",
+			"Assets": [
+				"/Game/FoliageLandscape/StoneFlore/MatID_1"
+			]
+		},
+		{
+			"ShaderMapHash": "B2EFD86F4DE3AAFEF98A14CCDCEAE0C7E38AFE8B",
+			"Assets": [
+				"/Game/MetaHumans/Common/Face/Materials/M_lacrimal_fluid"
+			]
+		},
+		{
+			"ShaderMapHash": "8A79F06F68569A91D8C1DB00B3A49A70B4BEE5CF",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_01_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_02_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_03_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_04_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_01_low_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_02_low_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_03_low_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_04_low_branch"
+			]
+		},
+		{
+			"ShaderMapHash": "BE62FC7276014742B54797D91416297591DCE363",
+			"Assets": [
+				"/Game/MetaHumans/Common/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD1"
+			]
+		},
+		{
+			"ShaderMapHash": "5A6E8874168E3AB4F6DDAC8E02AA0A2FE6B93626",
+			"Assets": [
+				"/Game/LevelPrototyping/MapaEscena",
+				"/Game/LevelPrototyping/MapaEscena1"
+			]
+		},
+		{
+			"ShaderMapHash": "B30A3C75AE6DE7B5D6AEDB1A25867CE4636681B7",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "95843C7735754A67438226C54DCDE31261475754",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "209D4D77583E6A519110C5B4F817C3AC23CC39A3",
+			"Assets": [
+				"/Game/Materials/Road"
+			]
+		},
+		{
+			"ShaderMapHash": "AC793A7CCBDF6DCFFE2133048D8CEDD7E772094C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2A8E2B81FD5D2658CDBAD865D2CB63B4F1E5ECB2",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "BB8E428205011C1BF117FCC956EBD521F9ADA82B",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_01_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_02_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_03_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_01_low_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_MA"
+			]
+		},
+		{
+			"ShaderMapHash": "0CAC4C83B841C9B400F0FC4B1DC3F1C0EEF11181",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "E4F81F84C9096F31E5CB0FDEF3B31F7619489616",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A4AA9885641F0AA91048A12D4973F304B0180D3F",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "EE60AC86318CE3ADBF88010ACF47C3A7AF7925C9",
+			"Assets": [
+				"/Game/MetaHumans/Common/Materials/M_jeans_nrm_custom_master"
+			]
+		},
+		{
+			"ShaderMapHash": "653DCB8679F09F59918EF9645E13658CF12ED47A",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "F6D4048A41118511D76938D858CD16CCE8048301",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_05_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_06_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_07_branch"
+			]
+		},
+		{
+			"ShaderMapHash": "28A6968A205AB9FFBF99344926C4EEC31C83C5C2",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "0E60D38ED2DB83B492CD5D4BD1AEC5BF62F4E311",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "85E0DF8FA0A3E330E0013D924B1B0AE96794BD07",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_05_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_06_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_07_MA"
+			]
+		},
+		{
+			"ShaderMapHash": "212FC190F1BAC93CD8A6C0FE94AA4E79FC8333AA",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E8598E91E1016C55BD208F66BFEE8231A65AFE8A",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4EF9B69290831712E9AAC516255235D2F03877D8",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/full_01_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/full_02_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/full_03_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_01_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_02_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_03_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_04_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/full_01_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/full_02_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/full_03_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_01_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_02_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_03_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_04_imposter"
+			]
+		},
+		{
+			"ShaderMapHash": "5C941394C3AB528C516FBAB62D69F4F994B4E557",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "249C3B94C1587BBB7573AD3CCB13BD4DB661F389",
+			"Assets": [
+				"/Game/ThirdPerson/Maps/ThirdPersonMap"
+			]
+		},
+		{
+			"ShaderMapHash": "2EDA559494708970B6F63A7BBA0894E8CE2FE723",
+			"Assets": [
+				"/AppleARKit/MI_DepthOcclusionOverlay"
+			]
+		},
+		{
+			"ShaderMapHash": "CA657E9537515DA145CA2D67F1F0A2763D08DD05",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "710E5197E42EB0AE95C18448B4CD8DFAF4901A82",
+			"Assets": [
+				"/Game/MetaHumans/Common/Face/Materials/Baked/M_Head_Baked"
+			]
+		},
+		{
+			"ShaderMapHash": "F7F35498BE46EE4776D7C4B9DD8CD9CF9351B89E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "5BCABC995DC7FE089DAA25648F963DED0EEC4397",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "A25CE19D0D2A51744A9121A00646B253FD1DB8D3",
+			"Assets": [
+				"/Game/FoliageLandscape/KikuyuGrass/Atlas",
+				"/Game/FoliageLandscape/WildGrass/Atlas"
+			]
+		},
+		{
+			"ShaderMapHash": "F3FB609ECA543AF843927ECE8177771D824E7C83",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "A4A73A9F8747473B5ADB1D2BEAEC1C70FB38844A",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F0B21BA0524DD7D11B77F20E9E3AF6574E035B2A",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "FF4C42A1DAE3F76B66ADEAB58BD7E41776AFD77A",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3B2132A2E21BCBF76BC60AA395BEA4BE5E7B72BF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C2226BA356E19AE8F9399930217124A6F41FBD4E",
+			"Assets": [
+				"/Game/MOON/Moon"
+			]
+		},
+		{
+			"ShaderMapHash": "923AE4A5D800271F58A120F9CD6B8287E6D118A7",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "13FD1BA68A76399FF55F430FB1903FED49D050A0",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundWinter"
+			]
+		},
+		{
+			"ShaderMapHash": "BAA797A9749D06020CD52655FCA7FAD0F81E3A42",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EBB789AE71E2C5AD07D80E3E2730033783B71AA7",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_05_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_06_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_07_MA"
+			]
+		},
+		{
+			"ShaderMapHash": "E23BC8AE5A07507E821F8196E78E44AA415FE431",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_01_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_02_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_03_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_04_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_01_low_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_02_low_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_03_low_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_04_low_MA"
+			]
+		},
+		{
+			"ShaderMapHash": "E11844B04195771481ABBAEEBA6E81317E8F3812",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CFFF48B0E462CFB7E6359E04269E8CB689B2EA6B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AD724BB56AD857FA7617F67B37580825A1438422",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "6F792AB6A5B7298FC32B0A57389ED30C7134212D",
+			"Assets": [
+				"/ARUtilities/Materials/M_PassthroughCamera"
+			]
+		},
+		{
+			"ShaderMapHash": "FC2BF8B608F519A7392F7E2DF331329C88BD0A32",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "A79988B85D8B13BEC67E3B3B65B62293CFDB527A",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_01_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_02_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_03_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_01_low_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_02_low_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_03_low_MA"
+			]
+		},
+		{
+			"ShaderMapHash": "366286B973FE72CD9384E2D3A3B2613B9829F828",
+			"Assets": [
+				"/Game/StylizedKitchen/Materials/MM_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "10E45ABAFC974431C64B0DCB1624CB6EA9C563EE",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_01_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_02_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_03_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_04_trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "60F958BB23D6A9B03A3855CBA0BCBB5A6862BDBE",
+			"Assets": [
+				"/Game/MetaHumans/Common/Materials/M_hair_v4",
+				"/Game/MetaHumans/Common/Materials/MI_Hair_Cards"
+			]
+		},
+		{
+			"ShaderMapHash": "68CA14BC77A28FA82FBB51AA3E00D62C06ED1F14",
+			"Assets": [
+				"/Game/MetaHumans/Common/Materials/M_PeachFuzzMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "EE9645BEB5F6DEDA436D6E38881153EEF0C4F9EF",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Imposter"
+			]
+		},
+		{
+			"ShaderMapHash": "FCE35FC07FECD6565C530431EFB62CA100B52B36",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4CFC4EC2E971C4C0D8C66CAF4701A48EBE84080F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "A7268EC36EB5B7FE58101DF3797C2BADA8437089",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
+			]
+		},
+		{
+			"ShaderMapHash": "9800A1C3FFD9D99C2AC046E2C86F2FE4B6110BFB",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "FA36E3C3D4F9C57A8CDBD6CBCF8AFBA6D7619F76",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/high/spruce_half_01_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/high/spruce_half_02_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/high/spruce_half_03_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/high/spruce_half_04_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_01_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_02_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_03_branch",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_04_branch"
+			]
+		},
+		{
+			"ShaderMapHash": "EFFE57C43AAC2DBC87C2419DB7538C0290279ABF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "ADE1E0C87D53F8C59A3FCEF035831156C8D05E02",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D644F0C8FB3F26D73431AEF0B24E7BE729135AF4",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "75FA44CAC579B0598964F169039B1F664D10582D",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "31F4D3CB9B7CC40F5D6975FADB8799270BEC0994",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "70AA30CD57D16FC5428D7B94E3933EF39497F76C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "4313D6D11F64CF5397C1767753CD106543695085",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "8CBEDBD2B0D0AB41AE978A0F17131454F37E6693",
+			"Assets": [
+				"/ARUtilities/Materials/MI_ScreenSpacePassthroughCameraExternalTexture"
+			]
+		},
+		{
+			"ShaderMapHash": "B3752AD96947CDCAC30CFA74AA4C14D850123BED",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F281DBD97C97252B93B0A2592490593D19FD31E0",
+			"Assets": [
+				"/Game/MetaHumans/Common/Controls/M_RigControlActor_Black"
+			]
+		},
+		{
+			"ShaderMapHash": "E0C46BDC639F731B623872C10A7C7BE3AE0E8441",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "CE601ADE60EAC09E5CFB4D1AE2DF45D79F801ECD",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "60F851DFFB69F14FF020B01E76ECF90C1560A785",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "AF10DCDFCA20C57E9295F8D059DFAF651BD7B369",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "7FE413E0DA59E1866DCB5939994ECDC2FE44F698",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "EF51A9E5F882F642A7FD387E342F66DD00DF7ADD",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "1E7E9FE6F34A4802E805E4EB3804EDD2F96DCD89",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "D06B70E82A9EA46B628C80B5FD1AA38EF6DED513",
+			"Assets": [
+				"/ARUtilities/Materials/M_ScreenSpacePassthroughCamera"
+			]
+		},
+		{
+			"ShaderMapHash": "8351D1E80219A26795C9D736206D02B43F797DA7",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_01_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_02_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_03_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_01_low_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_branch"
+			]
+		},
+		{
+			"ShaderMapHash": "A2570FEB68B52AE37D0020003D92648C1D591C1B",
+			"Assets": [
+				"/Game/MetaHumans/Common/Materials/M_BodySkin"
+			]
+		},
+		{
+			"ShaderMapHash": "01BF82EEB2B5C049A083922F8C1D8C81CD5F4109",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial",
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "722054F354517E95198638680486911A66BEBE11",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C9B2F3F3F020FA8CA4FE95EEFECDC72BE38BEC7F",
+			"Assets": [
+				"/Game/Houses/House1/Door",
+				"/Game/Houses/House1/Glass01",
+				"/Game/Houses/House1/Gutter",
+				"/Game/Houses/House1/WindowMetal",
+				"/Game/MOON/Moon-Textura_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "A1C3D1F5E07BE743CC6BE58F4201AAA7092BFB3D",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_01_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_02_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_03_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_04_trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "C9FAB2FCE3DD896A5707E1D22FC16F632857EE11",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/high/full_01_imposter",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/high/full_02_imposter",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/high/full_03_imposter",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/high/half_01_imposter",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/high/half_02_imposter",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/high/half_03_imposter",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/high/half_04_imposter",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/full_01_imposter",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/full_02_imposter",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/full_03_imposter",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/half_01_imposter",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/half_02_imposter",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/half_03_imposter",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/imposter/low/half_04_imposter"
+			]
+		},
+		{
+			"ShaderMapHash": "34C531FE97EAD55544333E1F871DF605B88FE9C3",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "83C2CEFE32D049E31FAA4BAA6A06899271089CF2",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "D23227FF8CCB34CE92424212C5F4436A5C10BF7B",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EA4B27FFDD19CA52B685EB61B7FCEC982A502608",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Summer"
+			]
+		},
+		{
+			"ShaderMapHash": "E4187FFFE097E30D39496F9090062756EEECFA0D",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_01_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_02_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/high/spruce_full_03_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_01_low_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_02_low_trunk",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/full/low/spruce_full_03_low_trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "CEE6D9FF0CA1E21A6735D30747BE4DD4C746C2CD",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/high/spruce_half_01_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/high/spruce_half_02_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/high/spruce_half_03_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/high/spruce_half_04_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_01_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_02_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_03_MA",
+				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/half/low/spruce_half_04_MA"
+			]
+		},
+		{
+			"ShaderMapHash": "350EEFFF808A9D9B9127B370A9C6BD767DDEC077",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		}
+	]
+}

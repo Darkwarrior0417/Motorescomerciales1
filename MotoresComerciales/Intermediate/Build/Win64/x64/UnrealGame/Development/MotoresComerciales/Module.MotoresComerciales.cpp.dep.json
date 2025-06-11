@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealproyects\\motorescomerciales\\motorescomerciales1\\motorescomerciales\\intermediate\\build\\win64\\x64\\unrealgame\\development\\motorescomerciales\\module.motorescomerciales.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealproyects\\motorescomerciales\\motorescomerciales1\\motorescomerciales\\intermediate\\build\\win64\\x64\\motorescomerciales\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealproyects\\motorescomerciales\\motorescomerciales1\\motorescomerciales\\intermediate\\build\\win64\\x64\\unrealgame\\development\\motorescomerciales\\definitions.motorescomerciales.h",
+            "c:\\unrealproyects\\motorescomerciales\\motorescomerciales1\\motorescomerciales\\intermediate\\source\\motorescomerciales.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

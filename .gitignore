@@ -73,3 +73,13 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 MotoresComerciales/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset
+MotoresComerciales/Binaries/Win64/MotoresComerciales.pdb
+MotoresComerciales/Saved/Cooked/Windows/MotoresComerciales/Content/Fab/A_couple_of_Wild_West_style_houses/Houses.uexp
+MotoresComerciales/Saved/Cooked/Windows/MotoresComerciales/Content/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+MotoresComerciales/Saved/Cooked/Windows/MotoresComerciales/Metadata/ShaderLibrarySource/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+MotoresComerciales/Saved/Cooked/Windows/MotoresComerciales/Content/ShaderArchive-MotoresComerciales-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+MotoresComerciales/Saved/Cooked/Windows/MotoresComerciales/Metadata/ShaderLibrarySource/ShaderArchive-MotoresComerciales-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+MotoresComerciales/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderCode-MotoresComerciales-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+MotoresComerciales/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderCode-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+MotoresComerciales/Saved/StagedBuilds/Windows/MotoresComerciales/Binaries/Win64/MotoresComerciales.pdb
+MotoresComerciales/Saved/StagedBuilds/Windows/MotoresComerciales/Content/Paks/MotoresComerciales-Windows.ucas

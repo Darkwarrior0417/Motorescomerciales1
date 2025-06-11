@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MotoresComerciales.cpp.obj": [
+			"MotoresComerciales.cpp.obj"
+		]
+	}
+}

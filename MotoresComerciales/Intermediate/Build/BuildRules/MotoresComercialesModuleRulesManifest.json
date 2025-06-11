@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealProyects\\MotoresComerciales\\Motorescomerciales1\\MotoresComerciales\\Intermediate\\Source\\MotoresComerciales.Build.cs",
+		"C:\\UnrealProyects\\MotoresComerciales\\Motorescomerciales1\\MotoresComerciales\\Intermediate\\Source\\MotoresComerciales.Target.cs",
+		"C:\\UnrealProyects\\MotoresComerciales\\Motorescomerciales1\\MotoresComerciales\\Intermediate\\Source\\MotoresComercialesClient.Target.cs",
+		"C:\\UnrealProyects\\MotoresComerciales\\Motorescomerciales1\\MotoresComerciales\\Intermediate\\Source\\MotoresComercialesEditor.Target.cs",
+		"C:\\UnrealProyects\\MotoresComerciales\\Motorescomerciales1\\MotoresComerciales\\Intermediate\\Source\\MotoresComercialesServer.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}
