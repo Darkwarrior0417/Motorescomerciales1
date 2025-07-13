@@ -1,12 +1,28 @@
-[0610/215206.148:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
-
-[0610/215206.301:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(125,1): warning X4000: use of potentially uninitialized variable (f_mainImage)
-
-[0610/215206.473:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
-
-[0610/215342.436:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0713/011127.790:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0713/013423.673:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013423.675:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013428.678:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013428.686:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013433.679:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013433.694:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013438.681:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013438.704:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013443.683:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013443.715:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013448.685:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013448.729:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013453.687:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013453.740:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013458.689:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013458.746:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013503.690:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013503.752:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013508.692:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013508.764:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013513.695:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013513.768:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013518.696:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013518.782:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013523.698:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/013523.794:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0713/023926.278:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 19
