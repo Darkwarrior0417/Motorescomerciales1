@@ -15,13 +15,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "ECFE68006AEA81445F39A96BB75CF9C28AFD3A11",
-			"Assets": [
-				"/Game/FoliageLandscape/KikuyuGrass/Atlas",
-				"/Game/FoliageLandscape/WildGrass/Atlas"
-			]
-		},
-		{
 			"ShaderMapHash": "B9BAF0027A7AC16169BF22DD15FE20256E5F3EB0",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
@@ -52,9 +45,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "97030D076BC51E32ADB393BE6F2EF45E4A580716",
+			"Assets": [
+				"/Game/Houses/House1/material",
+				"/Game/Houses/House1/material_0",
+				"/Game/Houses/House2/Material_002"
+			]
+		},
+		{
 			"ShaderMapHash": "E9765F086363D66482281C1010E19C06660D47A3",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "A6E6BD08D0D5D3C7A82221A9C1D0CD3BAE8C6494",
+			"Assets": [
+				"/Game/Materials/Grass",
+				"/Game/Materials/KartMaterial/Grass"
 			]
 		},
 		{
@@ -76,15 +84,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "AD64F911D3EA9FAD1057D828B48E2C389F1F6093",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
-			]
-		},
-		{
 			"ShaderMapHash": "6631CA16C795A0D4CC22C6CC989EA448CB8CF823",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "AD0AE316673FD0DD46A0064AAE5A10E8A97CEC5D",
+			"Assets": [
+				"/Engine/MapTemplates/Materials/BasicAsset03"
 			]
 		},
 		{
@@ -97,6 +105,14 @@
 			"ShaderMapHash": "6BB2391BDF563C5ED2102CFB57F80D8C9C5B7B44",
 			"Assets": [
 				"/Game/MetaHumans/Common/Materials/Oxfords/M_shs_oxfords"
+			]
+		},
+		{
+			"ShaderMapHash": "FC3AC91B485C65C06EFE97FF76276F8C65520D76",
+			"Assets": [
+				"/Game/LevelPrototyping/MapaEscena",
+				"/Game/LevelPrototyping/MapaEscenaBackup",
+				"/Game/LevelPrototyping/MapaEscenaPrebaking"
 			]
 		},
 		{
@@ -141,6 +157,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0777E61FAEDAE578A5260E4FD6630AC75BE98930",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
 			"ShaderMapHash": "ED4AFF1FF58D68B9DBF3794EE36F7037E850B1DF",
 			"Assets": [
 				"/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Imposter"
@@ -162,6 +184,12 @@
 			"ShaderMapHash": "621CF5237131B06C4825D23A18F36AF9CC9985F6",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BF7B2825025C2B626AF89A5ACDE668C1ED119A31",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
 			]
 		},
 		{
@@ -288,12 +316,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "31FAFC328996AEB6D337C3810C3CE0B1759684D0",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
-			]
-		},
-		{
 			"ShaderMapHash": "66241F33D72DB735F5CE07A8A0D3538CDA74D2A9",
 			"Assets": [
 				"/Game/PN_interactiveSpruceForest/ExampleContent/Winter/Materials/small/spruce_small_05_branch",
@@ -355,12 +377,6 @@
 			"ShaderMapHash": "D7C7913FA07828EA08570F34274155A585CF0A1D",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
-			]
-		},
-		{
-			"ShaderMapHash": "4925CE3F2344F13FF9607C1BE215F2981A95FE90",
-			"Assets": [
-				"/Interchange/gltf/M_Transmission"
 			]
 		},
 		{
@@ -448,6 +464,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "947C9150C31F0BE8A2A8534391576AF46240B8BC",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "5F761054CA1A11CB50BC19C3419D1E840CD9A82D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
 			"ShaderMapHash": "B3F98F59E058F695ECF1F4FA406DAD6B4441C353",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
@@ -519,6 +547,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "28CB236A087C2A82265E718783DE9EB9F29BE972",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
 			"ShaderMapHash": "6494676B8B87F40314B1B80C063350C5AD0D4DEA",
 			"Assets": [
 				"/Game/StylizedKitchen/Materials/MM_Grass"
@@ -533,13 +567,26 @@
 		{
 			"ShaderMapHash": "E9D6516C86AB07B8641BBFB3874EC03311C7C309",
 			"Assets": [
-				"/Game/Characters/Mannequin_UE4/Materials/M_Latex_Usable"
+				"/Game/Characters/Mannequin_UE4/Materials/M_Latex_Usable",
+				"/Game/Materials/KartMaterial/Blackmonkey"
+			]
+		},
+		{
+			"ShaderMapHash": "A71FAF6F17F0FF56041DE529E2F7FB3F1FB6F9EF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
 			]
 		},
 		{
 			"ShaderMapHash": "8F9BED75611FCA9E0278FA007C6B29979E70E097",
 			"Assets": [
 				"/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundSummer"
+			]
+		},
+		{
+			"ShaderMapHash": "2473FA7570022607CFFBE3A09F363D693A0D8B50",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
 			]
 		},
 		{
@@ -565,12 +612,6 @@
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
 				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
-			]
-		},
-		{
-			"ShaderMapHash": "FA90ED791DFE0286AFB3E2E8EEF5B5112F5FEC90",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
 			]
 		},
 		{
@@ -611,6 +652,19 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0186B88281C2C15DF82E8D07ECFDAE77554AC479",
+			"Assets": [
+				"/Game/Textures/HDRI/M_Skysphere"
+			]
+		},
+		{
+			"ShaderMapHash": "D8C723832890B5201E623CA2BDEFD8E62E1CE2CD",
+			"Assets": [
+				"/Game/Textures/FloorTexture/CheckerFloor_Mat",
+				"/Game/Textures/GarageTexture/GarageTexture_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "32857583AC72E5B7456C4C887484C21EEEADE4AB",
 			"Assets": [
 				"/Game/MetaHumans/Common/Materials/M_fabric_simpler"
@@ -637,6 +691,12 @@
 			"ShaderMapHash": "3E1A8E860B32B3B46F35039E6B6B7B1504FBCAAD",
 			"Assets": [
 				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "21235387F4B6D1FEE1836A9A2251169699881E41",
+			"Assets": [
+				"/Game/KartModel/Mat_Kart_Iggy"
 			]
 		},
 		{
@@ -671,9 +731,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "48BDB890C9D66A8311ACFC34889F4AF5A463FB16",
+			"ShaderMapHash": "68F05D92BA90F658C89BA1C437E9C2EC4EC7204E",
 			"Assets": [
-				"/Interchange/gltf/M_Default"
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
 			]
 		},
 		{
@@ -695,6 +755,16 @@
 			"ShaderMapHash": "616CFD936A8067F05B7C6AF62EA929A06CB4BE87",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "A65B7E94FF702A445062A04281466D35C956FACD",
+			"Assets": [
+				"/Game/Houses/House1/Block02",
+				"/Game/Houses/House1/Concrete02_basecolor",
+				"/Game/Houses/House1/roof",
+				"/Game/Houses/House1/Wood",
+				"/Game/Houses/House2/Material_003"
 			]
 		},
 		{
@@ -725,12 +795,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D94AFB9A91791BF402366212529F93E58FC116AE",
-			"Assets": [
-				"/Game/Materials/Grass"
-			]
-		},
-		{
 			"ShaderMapHash": "D2F3779CED4F47C149E88A024CA9906547A93E4C",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
@@ -739,11 +803,9 @@
 		{
 			"ShaderMapHash": "4662909CFC396CC1E3A51A48F61F300005A04F1F",
 			"Assets": [
-				"/Game/Houses/House1/Door",
-				"/Game/Houses/House1/Glass01",
-				"/Game/Houses/House1/Gutter",
-				"/Game/Houses/House1/WindowMetal",
-				"/Game/MOON/Moon-Textura_Mat"
+				"/Game/MOON/Moon-Textura_Mat",
+				"/Game/Textures/FloorTexture/BlackandWhiteFloor__2__Mat",
+				"/Game/Textures/GarageTexture/GarageTexture2_Mat"
 			]
 		},
 		{
@@ -785,6 +847,13 @@
 			"ShaderMapHash": "2E496EAEC15E87C599F7BFA76EC719A22F682676",
 			"Assets": [
 				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "77E583AFCB8C451AE228F1143B5328D07312E061",
+			"Assets": [
+				"/Game/FoliageLandscape/KikuyuGrass/Atlas",
+				"/Game/FoliageLandscape/WildGrass/Atlas"
 			]
 		},
 		{
@@ -850,16 +919,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "592E5DBAD71B770769F75ACC93A2E7E23C583759",
-			"Assets": [
-				"/Game/Houses/House1/Block02",
-				"/Game/Houses/House1/Concrete02_basecolor",
-				"/Game/Houses/House1/roof",
-				"/Game/Houses/House1/Wood",
-				"/Game/Houses/House2/Material_003"
-			]
-		},
-		{
 			"ShaderMapHash": "894C94BBFD28BE3238AECDA0AE84BBD4EA3CDC67",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
@@ -915,6 +974,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7A30D6C672244FE2FF50E4140463A7CFBF66734B",
+			"Assets": [
+				"/Game/Houses/House1/Door",
+				"/Game/Houses/House1/Glass01",
+				"/Game/Houses/House1/Gutter",
+				"/Game/Houses/House1/WindowMetal"
+			]
+		},
+		{
 			"ShaderMapHash": "4E5521C7ECE9293B4578D9502C1796BA6D036773",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
@@ -944,9 +1012,31 @@
 				"/Engine/VREditor/TransformGizmo/Xray",
 				"/Game/FoliageLandscape/KikuyuGrass/Billboard",
 				"/Game/FoliageLandscape/WildGrass/Billboard",
-				"/Game/Houses/House1/material",
-				"/Game/Houses/House1/material_0",
-				"/Game/Houses/House2/Material_002"
+				"/Game/ModelsStudio/Black_001",
+				"/Game/ModelsStudio/Metal_002",
+				"/Game/ModelsStudio/QS_002",
+				"/Game/ModelsStudio/Studio_Fabric_3",
+				"/Game/ModelsStudio/Studio_Plastic_1",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_10_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_11_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_12_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_13_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_14_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_15_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_16_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_17_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_18_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_19_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_1_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_2_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_3_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_4_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_5_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_6_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_7_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_8_001",
+				"/Game/ModelsStudio/Studio_Setup_Mtl_9_001",
+				"/Game/ModelsStudio/White_002"
 			]
 		},
 		{
@@ -975,12 +1065,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B44BC2DB0F99C5997717EB6A73DEEE470209E54A",
-			"Assets": [
-				"/Game/MOON/Moon"
-			]
-		},
-		{
 			"ShaderMapHash": "C49C23DCB2E8B0E0CDBEB19AD89C608DD8AD92FB",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
@@ -997,19 +1081,6 @@
 			"ShaderMapHash": "D1BD83DE14A63C26851A9A4038007CF6C415E1C6",
 			"Assets": [
 				"/ControlRig/M_Manip"
-			]
-		},
-		{
-			"ShaderMapHash": "151A6EDFE8155A571F6DD817A7FD46EB6E9B5315",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
-			]
-		},
-		{
-			"ShaderMapHash": "66453BE07C2805EDABC089278877CC2D7558938B",
-			"Assets": [
-				"/Game/LevelPrototyping/MapaEscena",
-				"/Game/LevelPrototyping/MapaEscena1"
 			]
 		},
 		{
@@ -1031,9 +1102,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "273467E34464B865BDC9015EE4FDB4F220404CCA",
+			"ShaderMapHash": "6A2B60E40F6DAF63A593595430176788039E9C50",
 			"Assets": [
-				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+				"/Engine/MapTemplates/Materials/BasicAsset01"
 			]
 		},
 		{
@@ -1110,12 +1181,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CA2D61EED83085D1F24902C6893412C94F58C984",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
-			]
-		},
-		{
 			"ShaderMapHash": "738D63EEA931D888E27A5CFCB3B97A37E76F8420",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
@@ -1152,9 +1217,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "410491F3EB322AA18F30CCF649F4AEBF8D9C9DC2",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
+			]
+		},
+		{
 			"ShaderMapHash": "D43945FBC5F1A8C50941B9A8A73B3313755F309E",
 			"Assets": [
 				"/Game/MetaHumans/Common/Materials/Shirt/Male/M_m_top_shirt"
+			]
+		},
+		{
+			"ShaderMapHash": "A09EBBFC5D0A199C4A93D8A9877C6144A2DC5D2E",
+			"Assets": [
+				"/Game/MOON/Moon"
 			]
 		},
 		{
